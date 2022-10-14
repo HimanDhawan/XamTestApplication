@@ -1,0 +1,10 @@
+framework module XamTest {
+  umbrella header "XamTest.h"
+
+  export *
+  module * { export * }
+}
+
+module XamTest.__Swift {
+    exclude header "XamTest-Swift.h"
+}

@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{3BF3B1B2-8796-4F48-B775-71FC5D7F2B00}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4D56B5ED-ED33-4B12-91B9-2A9F1CE29A00" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamTestBinding/ApiDefinitions.cs">
+    <Files>
+      <File FileName="XamTestBinding/ApiDefinitions.cs" Line="11" Column="2" />
+      <File FileName="../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/iOS/Xamarin.Shared.targets" Line="1649" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamTestBinding" expanded="True">
+            <Node name="XamTestApp" expanded="True" selected="True">
+              <Node name="References" expanded="True" />
+            </Node>
+            <Node name="XamTestBinding" expanded="True">
+              <Node name="NativeReferenceFolder" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.XamTestApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4D56B5ED-ED33-4B12-91B9-2A9F1CE29A00" />
+</Properties>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "J9b9TpeypIloecay2sHjfE3kib8LOvXedq2oho6qzJ96DYhw0a3BdujKf/b5rmNVF0ltvHxrXHGvzyhLxQVkQQ==",
+  "success": true,
+  "projectFilePath": "/Users/hdhawan/Projects/XamTestApp/XamTestApp/XamTestApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/hdhawan/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/hdhawan/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}

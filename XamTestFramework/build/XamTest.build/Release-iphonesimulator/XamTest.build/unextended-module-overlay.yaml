@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/hdhawan/Documents/Xamrine/XamTest/build/Release-iphonesimulator/XamTest.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/hdhawan/Documents/Xamrine/XamTest/build/XamTest.build/Release-iphonesimulator/XamTest.build/unextended-module.modulemap",
+    }]
+  }]
+}

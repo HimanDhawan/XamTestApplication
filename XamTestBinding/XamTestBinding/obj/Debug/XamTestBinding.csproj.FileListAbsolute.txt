@@ -1,0 +1,8 @@
+/Users/hdhawan/Projects/XamTestBinding/XamTestBinding/obj/Debug/_ProcessedBundleResourcesPath.items
+/Users/hdhawan/Projects/XamTestBinding/XamTestBinding/obj/Debug/_ProcessedContentPath.items
+/Users/hdhawan/Projects/XamTestBinding/XamTestBinding/obj/Debug/XamTestBinding.csproj.AssemblyReference.cache
+/Users/hdhawan/Projects/XamTestBinding/XamTestBinding/bin/Debug/NativeLibrary.dll
+/Users/hdhawan/Projects/XamTestBinding/XamTestBinding/bin/Debug/NativeLibrary.pdb
+/Users/hdhawan/Projects/XamTestBinding/XamTestBinding/obj/Debug/XamTestBinding.csproj.CoreCompileInputs.cache
+/Users/hdhawan/Projects/XamTestBinding/XamTestBinding/obj/Debug/NativeLibrary.dll
+/Users/hdhawan/Projects/XamTestBinding/XamTestBinding/obj/Debug/NativeLibrary.pdb

@@ -1,0 +1,11 @@
+RemoveDynamicRegistrar:false
+/Users/hdhawan/Projects/XamTestApp/XamTestApp/bin/iPhoneSimulator/Debug/XamTestApp.app:/Users/hdhawan/Projects/XamTestApp/XamTestApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/XamTestApp.exe
+/Users/hdhawan/Projects/XamTestApp/XamTestApp/bin/iPhoneSimulator/Debug/XamTestApp.app:/Users/hdhawan/Projects/XamTestApp/XamTestApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/mscorlib.dll
+/Users/hdhawan/Projects/XamTestApp/XamTestApp/bin/iPhoneSimulator/Debug/XamTestApp.app:/Users/hdhawan/Projects/XamTestApp/XamTestApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Xamarin.iOS.dll
+/Users/hdhawan/Projects/XamTestApp/XamTestApp/bin/iPhoneSimulator/Debug/XamTestApp.app:/Users/hdhawan/Projects/XamTestApp/XamTestApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.dll
+/Users/hdhawan/Projects/XamTestApp/XamTestApp/bin/iPhoneSimulator/Debug/XamTestApp.app:/Users/hdhawan/Projects/XamTestApp/XamTestApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/Mono.Security.dll
+/Users/hdhawan/Projects/XamTestApp/XamTestApp/bin/iPhoneSimulator/Debug/XamTestApp.app:/Users/hdhawan/Projects/XamTestApp/XamTestApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.Xml.dll
+/Users/hdhawan/Projects/XamTestApp/XamTestApp/bin/iPhoneSimulator/Debug/XamTestApp.app:/Users/hdhawan/Projects/XamTestApp/XamTestApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.Numerics.dll
+/Users/hdhawan/Projects/XamTestApp/XamTestApp/bin/iPhoneSimulator/Debug/XamTestApp.app:/Users/hdhawan/Projects/XamTestApp/XamTestApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.Core.dll
+/Users/hdhawan/Projects/XamTestApp/XamTestApp/bin/iPhoneSimulator/Debug/XamTestApp.app:/Users/hdhawan/Projects/XamTestApp/XamTestApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.Net.Http.dll
+/Users/hdhawan/Projects/XamTestApp/XamTestApp/bin/iPhoneSimulator/Debug/XamTestApp.app:/Users/hdhawan/Projects/XamTestApp/XamTestApp/obj/iPhoneSimulator/Debug/mtouch-cache/1-Link/System.Drawing.Common.dll

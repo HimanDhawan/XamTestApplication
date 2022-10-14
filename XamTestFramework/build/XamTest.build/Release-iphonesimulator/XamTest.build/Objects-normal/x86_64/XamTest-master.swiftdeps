@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "e39e80efbb6b55f0513d05b73c4e8627d4cfe5c1af0a9ec9d1d60ef819ae3101"
+build_start_time: [1665559652, 625702857]
+build_end_time: [1665559653, 232123851]
+inputs:
+  "/Users/hdhawan/Documents/Xamrine/XamTest/XamTest/XamKit.swift": [1665559612, 395750522]
